@@ -1,3 +1,6 @@
+![Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+
 # Hi, I'm Pavel 👋
 
 Indie Developer focused on Windows GUI utilities and networking tools.
